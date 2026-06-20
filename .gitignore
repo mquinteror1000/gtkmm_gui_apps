@@ -43,7 +43,8 @@
 build/
 Build/
 build-*/
-
+# notas_scan pra notas y escaneos
+notas_scan
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt
