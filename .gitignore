@@ -1,10 +1,15 @@
 # Prerequisites
 *.d
+# no extension common bin files
+*
+!*.*
+!.gitignore
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
+*.bin
 *.obj
 
 # Precompiled Headers
