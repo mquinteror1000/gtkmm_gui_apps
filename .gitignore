@@ -2,7 +2,6 @@
 *.d
 # direcotrio build de cada programita
 **/build/*
-!**/build/.gitkeep
 
 # Compiled Object files
 *.slo
