@@ -1,9 +1,8 @@
 # Prerequisites
 *.d
-# no extension common bin files
-*
-!*.*
-!.gitignore
+# direcotrio build de cada programita
+**/build/*
+!**/build/.gitkeep
 
 # Compiled Object files
 *.slo
