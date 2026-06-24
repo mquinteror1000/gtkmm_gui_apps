@@ -1,0 +1,23 @@
+.
+├── 001_hello_worl_gui
+│   ├── build
+│   │   └── mi_app
+│   ├── compila.sh
+│   ├── imgs
+│   │   └── mi_app_runnig.png
+│   ├── instrucciones.md
+│   └── main.cpp
+├── 003_occi_sample
+│   ├── build
+│   │   └── mi_app_gtkmm
+│   ├── compile.sh
+│   ├── crea_tabla.sql
+│   ├── instrucciones.md
+│   └── main.cpp
+├── LICENSE
+├── my_proyect_tree.txt
+├── notas_scan
+│   └── 001_hello_world_gui.pdf
+└── readme.md
+
+7 directories, 14 files
